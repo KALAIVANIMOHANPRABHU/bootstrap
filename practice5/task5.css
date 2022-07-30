@@ -1,0 +1,35 @@
+.div{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:80vh;
+    width:70vw;
+    margin:0px auto;
+}
+.container{
+    height:50vh;
+    width:100%;
+    background-color: white;
+    border-radius: 10px;
+    margin-top:-50px;
+}
+
+.data_center_0{margin:0px auto;
+    max-width:500px; 
+}
+
+.bg_div{background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+background-size: cover;
+width:100%;
+height:350px;
+}
+
+.bg_text{width:100%;
+    float:left;
+    background-color:#fff;
+    border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+margin-top:-100px;
+padding:5px;
+font-size: large;
+}

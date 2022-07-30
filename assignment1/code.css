@@ -1,0 +1,98 @@
+.div{
+    margin: 0px auto;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    width:400px;
+    height:600px;
+}
+.box{
+    background-color:#323f4b;
+    text-align: center;
+    color: #ffffff;
+    height:70px;
+    padding-top:5px;
+    font-size:small;
+    
+}
+.container{
+    height:50px;
+    width:350px;
+    background-color: #47a3f3;
+    float:right;
+    border-top-right-radius:30px;
+    border-bottom-left-radius:20px;
+    text-align: right;
+    color: #ffffff;
+    margin-right:20px;
+}
+.text{
+    height:50px;
+    width:350px;
+    background-color: #323f4b;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    color:#ffffff;
+    padding:10px;
+
+}
+.screen{ 
+    height:50px;
+    width:350px;
+    background-color:#47a3f3;
+    border-top-right-radius:30px;
+    border-bottom-left-radius: 20px;
+    color:#ffffff;
+    float:right;
+    text-align:right;
+}
+.type{
+    height:50px;
+    width:350px;
+    background-color: #323f4b;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    color:#ffffff;
+    padding:10px;
+}
+.url{
+    height:50px;
+    width:350px;
+    background-color: #47a3f3;
+    float:right;
+    border-top-right-radius:30px;
+    border-bottom-left-radius:20px;
+    text-align: right;
+    color: #ffffff;
+    margin-right:20px;
+
+}
+.write{height:50px;
+    width:350px;
+    background-color: #323f4b;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    color:#ffffff;
+    padding:10px;
+}
+.wave{
+    height:50px;
+    width:350px;
+    background-color: #47a3f3;
+    float:right;
+    border-top-right-radius:30px;
+    border-bottom-left-radius:20px;
+    text-align: right;
+    color: #ffffff;
+    margin-right:20px;
+
+}
+
+
+
+    
+
+
+
+
+
+
+

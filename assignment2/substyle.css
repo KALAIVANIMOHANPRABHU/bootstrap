@@ -1,0 +1,141 @@
+.bg-container{
+    background-image: url(2021020406.avif);
+    height:60vh;
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    padding:20px;
+}
+.btn{
+    height:50px;
+    width:75px;
+    border-color:black;
+    margin-left: 650px;
+    background-color:coral;
+}
+.home{
+    height:40vh;
+    background-color: cornflowerblue;
+    font-size:x-large;
+    padding:50px;
+}
+.img{
+    height:150px;
+    width:150px;
+}
+.para{
+    height:40vh;
+    background-color: hotpink;
+    font-size: x-large;
+    padding:50px;
+}
+.ig{
+    height:150px;
+    width:150px;
+}
+.bottom{
+    background-color:thistle;
+    text-align:center;
+    padding:20px;
+    font-size: large;
+}
+.bnt{
+    margin-left:650px;
+    border-radius: 20px;
+}
+.bottom1{
+    background-color:plum;
+    text-align: center;
+    padding:20px;
+    font-size: large;
+}
+.container{
+    background-image:url("tools-and-accessories-for-diy-jewelry-in-the-workplace-flat-lay-on-beige-background-creative-flat-lay-square-top-view-diy-craft-hobby-homemade-2J59GK2.jpg");
+    height:90vh;
+    width:50vw;
+    background-size: cover;
+}
+.ige{
+    height:70px;
+    width:70px;
+}
+.bottom2{
+    background-color: aliceblue;
+    text-align: center;
+    padding:20px;
+    font-size: x-small;
+}
+.card1{
+    background-color: blueviolet;
+    width:300px;
+    padding:20px;
+    margin:10px;
+    height:300px;
+    border-radius:10px;
+
+}
+.ime{
+height:200px;
+width:200px;
+}
+.h3{
+    font-size: large;
+}
+.mrp{
+    font-size: large;
+}
+.card2{
+    background-color: fuchsia;
+    width:300px;
+    padding:20px;
+    margin:10px;
+    height:300px;
+    border-radius:10px;
+}
+.ie{
+    height:200px;
+    width:200px;
+}
+.h3s{
+    font-size: large;
+}
+.h3h{
+    font-size: large;
+}
+.card3{
+    background-color: khaki;
+    width:300px;
+    padding:20px;
+    margin:10px;
+    height:300px;
+    border-radius: 10px;
+}
+.ies{
+    height:200px;
+    width:200px;
+}
+.h3a{
+    font-size: large;
+}
+.h3b{
+    font-size: large;
+}
+.card4{
+    background-color: aquamarine;
+    width:300px;
+    padding:20px;
+    margin:10px;
+    height:300px;
+    border-radius:10px;
+}
+.ijk{
+    height:200px;
+    width:200px;
+}
+.h3c{
+    font-size: large;
+}
+.h3d{
+    font-size: large;
+}

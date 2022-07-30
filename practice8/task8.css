@@ -1,0 +1,102 @@
+.div{
+    height:110vh;
+    width:45vw;
+    margin:0px auto;
+    border-width:20px;
+    border:solid;
+    border-color:lightgray;
+}
+.p{
+    margin-right:200px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: blue;
+    color:white;
+}
+.card{
+    height:20vh;
+    width:40vw;
+    border-radius:20px;
+    background-color:lightcyan;
+    margin:20px;
+}
+.img{
+    height:70px;
+    width:70px;
+    margin:20px;
+}
+.h1{
+    font-size:large;
+}
+.h1a{
+    font-size:x-large;
+}
+.img1{
+    height:100px;
+    width:85px;
+    border-radius:10px;
+    background-color:lightgreen;
+    border-color:lightgreen;
+    padding:10px;
+}
+.h1b{
+    font-size: small;
+    color:white;
+}
+.img2{
+    height:100px;
+    width:85px;
+    border-radius:10px;
+    background-color: hotpink;
+    border-color:hotpink;
+    padding:10px;
+    margin-left:20px;
+}
+.h1c{
+    font-size: small;
+    color:white;
+}
+.img3{
+    height:100px;
+    width:85px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    padding:10px;
+    margin-left: 20px;
+}
+.h1d{
+    font-size:small;
+    color: white;
+}
+.h1e{
+    font-size:x-large;
+}
+.grid{
+    height:25vh;
+    width:40vw;
+    border-radius: 20px;
+    background-color: lightpink;
+    border-color:lightpink;
+    margin:20px;
+}
+.h1f{
+    font-size: large;
+}
+.img4{
+    height:70px;
+    width:70px;
+    margin:20px;
+}
+.btn1{
+    margin-right:20px;
+    border-radius: 10px;
+    background-color: blue;
+    border-color: blue;
+}
+
+
+
+    
+    

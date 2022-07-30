@@ -1,0 +1,43 @@
+.div{
+    height:90vh;
+    width:30vw;
+    margin:0px auto;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    text-align: center;
+    color:white;
+}
+.text{
+    text-align: center;
+    color:white;
+    font-size:large;
+    margin-top: 45px;
+}
+.head{
+    color:white;
+    font-style: bold;
+    font-size:medium;
+}
+.p{
+    color:white;
+}
+.btn{
+    background-color:orange;
+    border-color: black;
+    color:white;
+    margin-left: 150px;
+    height:30px;
+    width:70px;
+    text-align: center;
+
+}
+.h4{
+    color:white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: small;
+}
+

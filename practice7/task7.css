@@ -1,0 +1,49 @@
+.bg-container{
+    height:150vh;
+    width:40vw;
+    background-color: coral;
+    margin:0px auto;
+}
+.h1{
+ font-size:x-large;
+ color:white;
+
+
+}
+.img{
+    height:20px;
+    width:20px;
+    margin-left:30px;
+}
+.p{
+    color:white;
+
+}
+.h1a{
+    color:white;
+    font-size:x-large;
+}
+.img1{
+    height:100px;
+    width:100px;
+    margin-left:10px;
+}
+.img2{
+    height:150px;
+    width:100px;
+    margin-left:20px;
+}
+.img3{
+    height:150px;
+    width:100px;
+    margin-left:20px;
+}
+.btn{
+    margin-left:90px;
+    border-radius: 10px;
+    border-color:white;
+    color:coral;
+    background-color: white;
+    margin-bottom:50px;
+
+}

@@ -1,0 +1,37 @@
+.div{
+    height:150vh;
+    width:34vw;
+    margin:0px auto;
+    background-color:white;
+}
+.h1{
+    font-size:x-large;
+}
+.head{
+    font-size: x-large;
+}
+.img1{
+    height:100px;
+    width:100px;
+    border-radius: 10px;
+}
+.img2{
+    height:100px;
+    width:100px;
+    border-radius:10px;
+    margin-left:20px;
+}
+.img3{
+    height:100px;
+    width:100px;
+    border-radius:10px;
+    margin-left:20px;
+}
+.h1a{
+    font-size: x-large;
+}
+.m{
+    height:100px;
+    width:315px;
+}
+
